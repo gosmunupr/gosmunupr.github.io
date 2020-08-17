@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://html5-templates.com/" />
+    <title>Responsive HTML5 Page Layout Template</title>
+    <meta name="description" content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+	<header>
+		<div id="logo"><img src="/home/lokman/Рабочий стол/github/html5-page-layout/logo.jpg">Помощь студентам курса ГМУ</div>
+		<nav>  
+			<ul>
+				<li><a href="/1.html">Курс 1</a>
+				<li><a href="/2.html">Курс 2</a>
+				<li><a href="/3.html">Курс 3</a>
+				<li><a href="/4.html">Курс 4</a>
+			</ul>
+		</nav>
+	</header>
+	<section>
+		Для студентов направления <strong>ГМУ Филиала МГУ</strong> в Душанбе: материалы, литература, учебники советы и другое. Выберите свой курс в вверхнем панеле, а на следующей странице, выберите предмет. Ниже же предоставлены разные советы.
+	</section>
+	<section id="pageContent">
+		<main role="main">
+			<article>
+				<h2>Что делать, если не поняли какое-то понятие, термин?</h2>
+			    	<ol>
+						<li>Почитайте определение данного понятия <strong>с нескольких источников</strong>
+						</li>
+						<li>Почитайте определение понятия  <strong>на разных языках</strong></li>
+						<li>Почитайте немножко об <strong>истории появления/изучения</strong> этого понятия</li>
+					</ol>
+				</article>
+			<article>
+				<h2>Программы, которые облегчат жизнь. Андроид онли :(</h2>
+				<p>
+				<li>Читай и создавай ворд-файлы, презентации и таблицы + РДФ<a href="/1.html">Скачать.</a> \/ <a href="/1.html">Источник</a>
+				<li>Читай другие форматы книг(.djvu .epub ...)<a href="/1.html">Клик</a>
+				<li>Юридические термины <a href="/1.html">Клик</a>
+				<li>Экономические термины <a href="/1.html">Клик</a>
+				<li>Русский мы знаем... Да? <a href="/1.html">Клик</a>
+				<li>Таджикский тем более все знают <a href="/1.html">Клик</a>
+				</p>
+			</article>
+			<article>
+				<h2>Ex ignota epicurei quo</h2>
+				<p>Quo debet vivendo ex. Qui ut admodum senserit partiendo. Id adipiscing disputando eam, sea id magna pertinax concludaturque. Ex ignota epicurei quo, his ex doctus delenit fabellas, erat timeam cotidieque sit in. Vel eu soleat voluptatibus, cum cu exerci mediocritatem. Malis legere at per, has brute putant animal et, in consul utamur usu.</p>
+			</article>
+			<article>
+				<h2>Так и знал...<h2>***ВНИМАНИЕ! СЛЕДУЮЩЕЕ ПРОТИВОПОКАЗАНО ПЕРВОКУРСНИКАМ, ТАК КАК МОЖЕТ ВЫЗВАТЬ УМНЫЕ МЫСЛИ***</h2></h2>
+				<p>
+				<li>Лоерм уомвв лыыв <a href="/1.html">Клик</a>
+				<li>Лоерм уомвв лыыв <a href="/1.html">Клик</a>
+				<li>Лоерм уомвв лыыв <a href="/1.html">Клик</a>
+				<li>Лоерм уомвв лыыв <a href="/1.html">Клик</a>
+				<li>Лоерм уомвв лыыв <a href="/1.html">Клик</a>
+				<li>Лоерм уомвв лыыв <a href="/1.html">Клик</a>
+				</p>
+			</article>
+		</main>
+	</section>
+<footer>
+		<p>&copy; <a href="https://html5-templates.com/" target="_blank" rel="nofollow">HTML5 Templates</a></p>
+		<address>
+		Присылай полезное в рамках курса ГМУ на <strong>gosmunupr@mail.com</strong>
+		</address>
+	</footer>
+
+</body>
+
+</html>
